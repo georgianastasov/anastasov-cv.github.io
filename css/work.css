@@ -1,0 +1,118 @@
+.work {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.work .title {
+    font-weight: 600;
+}
+
+.work .wrapper > p {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.work .mailto {
+    flex: 0 0 30%;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border-radius: 0.2rem;
+}
+
+.work .mailto:hover {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.work .links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+}
+
+.work .links .card {
+    flex: 0 0 47%;
+    display: block;
+    width: 3rem;
+    height: 10rem;
+    // border: 2px solid black;
+    border-radius: 0.7rem;
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 2rem;
+    box-shadow: 0 0.1rem 0.3rem 0.1rem rgb(0 0 0 / 80%);
+}
+
+.work .links .card::after {
+    display: block;
+    content: '';
+    padding-top: 100%;
+}
+
+.work .links .card img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: auto;
+    transform: translate(-50%, -50%);
+
+}
+
+.work .links .card div {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    transform: translate(-50%, -50%);
+}
+
+.work .links .card p {
+    margin-bottom: 0.5rem;
+}
+
+.work .links .card a {
+    padding: 0.3rem 0.4rem;
+    border: 2px solid white;
+    border-radius: 0.7rem;
+    color: white;
+    text-decoration: none;
+}
+
+.work .links .card a:hover {
+    background-color: white;
+    color: black;
+    border-color: white;
+}
+
+.work .links .card:hover div {
+    display: block;
+    cursor: pointer;
+}
+
+.work .links .card:hover img {
+    filter: brightness(.1);
+    cursor: pointer;
+}
+
+.work .links .card i {
+    font-size: 3rem;
+    color: black;
+}
+
+@media screen and (min-width: 800px) { 
+    .work .mailto {
+        flex: 0 0 auto;
+        margin-left: 0.3rem;
+    }
+
+    .work .links .card {
+        flex: 0 0 30%;
+    }
+}

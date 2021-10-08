@@ -1,0 +1,74 @@
+.skills .wrapper {
+    background-color: white;
+    border-radius: 1rem;
+    list-style: none outside;
+    position: relative;
+    top: -3rem;
+    box-shadow: 0 0.1rem 0.3rem 0.1rem rgb(0 0 0 / 80%);
+}
+
+.skills .wrapper .card {
+    padding: 3rem 1rem;
+    flex: 0 1 33%;
+}
+
+.skills .wrapper .card:nth-child(2) {
+    border-top: 1px solid rgb(204, 204, 204);
+    border-bottom: 1px solid rgb(204, 204, 204);
+}
+
+.skills p {
+    font-size: 0.9rem;
+}
+
+.skills .skills-header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.skills .skills-header h4 {
+    margin-top: 0.8rem;
+}
+
+.skills .skills-header i {
+    font-size: 2rem;
+    transition: transform 0.3s;
+}
+
+.skills .skills-header i:hover {
+    transform: rotate(360deg);
+    cursor: pointer;
+}
+
+.skills .skills-info {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.skills .skills-stack {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.skills .skills-stack ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.skills .skills-stack ul li{
+    list-style: none outside;
+}
+
+@media screen and (min-width: 800px) {
+    .skills .wrapper {
+        display: flex;
+    }
+
+    .skills .wrapper .card:nth-child(2) {
+        border-left: 1px solid rgb(204, 204, 204);
+        border-right: 1px solid rgb(204, 204, 204);
+    }
+}

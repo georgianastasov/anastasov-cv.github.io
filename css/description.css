@@ -1,0 +1,16 @@
+.site-description {
+    background-color: rgb(10, 10, 10);
+    color: white;
+    padding: 2rem 1rem 7rem 1rem;
+    text-align: center;
+}
+
+.site-description .introducing {
+    padding-bottom: 0.8rem;
+}
+
+.site-description .message {
+    font-weight: lighter;
+    font-size: 0.9rem;
+    padding: 0 5rem;
+}

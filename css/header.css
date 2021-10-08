@@ -1,0 +1,36 @@
+.site-header .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.site-title{
+    font-size: 2.2rem;
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    margin: 0;
+}
+
+.moto{
+    text-transform: uppercase;
+    font-family: Inconsolata;
+    font-weight: 300;
+    text-align: center;
+    margin: 0;
+}
+
+.contact {
+    font-family: Source Sans Pro;
+    text-decoration: none;
+    padding: 0.6rem 1rem;
+    border: 2px solid black;
+    color: black;
+    border-radius: 5rem;
+    margin-top: 0.6rem;
+}
+
+.contact:hover {
+    background-color: black;
+    color: white;
+}

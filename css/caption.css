@@ -1,0 +1,70 @@
+.site-caption {
+    font-family: Roboto Condensed;
+    margin-top: 6rem;
+}
+
+.site-caption .intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-caption .caption {
+    text-align: center;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.site-caption .caption-describe {
+    text-align: center;
+    font-weight: 300;
+}
+
+.site-caption .intro img {
+    width: 160px;
+    height: 160px;
+    margin: 3rem 0;
+}
+
+@media screen and (min-width: 435px) {
+    .site-caption .intro img {
+        width: 180px;
+        height: 180px;
+    }
+}
+
+@media screen and (min-width: 510px) {
+    .site-caption .intro img {
+        width: 190px;
+        height: 190px;
+    }
+}
+
+@media screen and (min-width: 605px) {
+    .site-caption .intro img {
+        width: 200px;
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 805px) {
+    .site-caption .intro img {
+        width: 220px;
+        height: 220px;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .site-caption .intro img {
+        width: 250px;
+        height: 250px;
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    .site-caption .intro img {
+        width: 300px;
+        height: 300px;
+    }
+}

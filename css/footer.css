@@ -1,0 +1,50 @@
+.site-footer {
+    box-shadow: 
+    inset 0px 15px 1rem -10px #CCC,
+    inset 0px -15px 1rem -10px #CCC; 
+}
+
+.site-footer .wrapper {
+    padding: 5rem 3rem 2rem 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.site-footer .title {
+    font-size: 1.7rem;
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    margin: 0;
+}
+
+.site-footer .desc {
+    font-size: 0.8rem;
+}
+
+.site-footer .socials {
+    display: flex;
+    margin: 1.5rem 0;
+}
+
+.site-footer .socials span {
+    display: block;
+    border: 1px solid black;
+    border-radius: 50%;
+    color: black;
+    padding: 0.3rem 0.5rem;    
+}
+
+.site-footer .socials span:not(:last-child) {
+    margin-right: 0.5rem;
+}
+
+.site-footer .socials span:hover {
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+.site-footer .copy {
+    font-size: 0.8rem;
+}
