@@ -12,14 +12,24 @@
     padding: 2rem;
     position: relative;
     top: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .collaboration .title {
     font-weight: 600;
+    flex-basis: 100%;
+    margin-bottom: 1rem;
+    text-align: center;
 }
 
 .collaboration .desc {
     font-size: 0.8rem;
+    flex-basis: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
 }
 
 .collaboration a {
@@ -34,4 +44,27 @@
     background-color: white;
     color: black;
     border-color: white;
+}
+
+@media screen and (min-width: 450px) {
+    .collaboration .wrapper {
+        justify-content: space-between;
+        flex-wrap: nowrap;
+    }
+
+    .collaboration .desc {
+        flex-basis: 75%;
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    .collaboration .title {
+        flex-basis: auto;
+        margin-bottom: 0;
+        text-align: left;
+    }
+
+    .collaboration a{
+        margin-left: 1rem;
+    }
 }

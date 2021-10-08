@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem;
+    padding: 1rem 0;
     font-family: Source Sans Pro;
     animation: headerItemsIn 0.4s 1 ease-out forwards;
 }
@@ -36,4 +36,10 @@
 .contact:hover {
     background-color: black;
     color: white;
+}
+
+@media screen and (min-width: 450px) {
+    .site-header .wrapper {
+        padding: 1rem;
+    }
 }
