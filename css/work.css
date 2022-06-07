@@ -85,12 +85,11 @@
 
 .work .links .card p {
     margin-bottom: 1rem;
-    text-transform: uppercase;
 }
 
 .work .links .card a {
     padding: 0.2rem 0.4rem;
-    border: 2px solid white;
+    border: 1px solid white;
     border-radius: 0.7rem;
     color: white;
     text-decoration: none;
@@ -104,6 +103,7 @@
 
 .work .links .card:hover div {
     display: block;
+    width: 100%;
 }
 
 .work .links .card:hover img {
