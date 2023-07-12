@@ -1,10 +1,10 @@
-<h1><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Hey! Nice to see you.</h1>
+<h2>👋 Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Georgi, Anastasov software developer from <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="13"/> <b>Haskovo, Bulgaria</b>, currently living in <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="13"/> <b>Sofia, Bulgaria</b>.</p>
 <p>I am a Software Developer with <strong>1+</strong> years of experience in developing software.</p>
 <p>I also have a <img src="https://cdn-icons-png.flaticon.com/128/3313/3313498.png" width="13"/>bachelor's and <img src="https://cdn-icons-png.flaticon.com/128/3313/3313498.png" width="13"/>master's degree from the <strong>Technical University of Sofia</strong> </br> in the field of <strong>Informatics and Software Sciences</strong>.</p>
 
-<h3>Things I code with</h3>
+<h2>🚀 Things I code with.</h3>
 <p>
 <img alt="Csharp" src="https://img.shields.io/badge/-Csharp-45b8d8?style=flat-square&logo=Csharp&logoColor=white" />
 <img alt=".NET" src="https://img.shields.io/badge/-.NET-1a73e8?style=flat-square&logo=.NET&logoColor=white" />
@@ -20,5 +20,8 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Where to find me</h3>
+<h2>🔢 Some stats.</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=georgianastasov&show_icons=true&count_private=true" alt="georgianastasov" />
+
+<h2>💬 Where to find me.</h3>
 <p><a href="https://github.com/georgianastasov" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/georgi-anastasov-97a733240/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/georgiaanastasov/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a></p>
