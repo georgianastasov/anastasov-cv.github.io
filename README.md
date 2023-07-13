@@ -1,8 +1,8 @@
 <h2>👋 Hey! Nice to see you.</h1>
+<p>Welcome to my page!</p>
+<p>I'm Georgi Anastasov, Software Developer with <strong>1+</strong> years of experience in developing software. </br> I'm from <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="13"/> <b>Haskovo, Bulgaria</b>, currently living in <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="13"/> <b>Sofia, Bulgaria</b>.</p>
 
-<p>Welcome to my page! </br> I'm Georgi, Anastasov software developer from <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="13"/> <b>Haskovo, Bulgaria</b>, currently living in <img src="https://flagpedia.net/data/flags/w40/bg.webp" width="13"/> <b>Sofia, Bulgaria</b>.</p>
-<p>I am a Software Developer with <strong>1+</strong> years of experience in developing software.</p>
-<p>I also have a <img src="https://cdn-icons-png.flaticon.com/128/3313/3313498.png" width="13"/>bachelor's and <img src="https://cdn-icons-png.flaticon.com/128/3313/3313498.png" width="13"/>master's degree from the <strong>Technical University of Sofia</strong> </br> in the field of <strong>Informatics and Software Sciences</strong>.</p>
+<p>I have a :man_student:<strong>bachelor's</strong> and :man_student:<strong>master's</strong> degree from the <strong>Technical University of Sofia</strong> </br> in the field of <strong>Informatics and Software Sciences</strong>.</p>
 
 <h2>🚀 Things I code with.</h3>
 <p>
