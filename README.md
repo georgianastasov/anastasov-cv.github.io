@@ -1,5 +1,5 @@
-<h2>👋 Georgi Anastasov CV.</h1>
-<p>Welcome to a portfolio/cv of Hardworking and motivated Software Developer.</p>
+<h2>👋 Georgi Anastasov portfolio/cv.</h1>
+<p>Welcome to a portfolio/cv of <strong>Hardworking</strong> and <strong>motivated Software Developer</strong>.</p>
   
 <h2>⭐ About me.</h3>
 <a href="https://georgianastasov.github.io/anastasov-cv.github.io/" target="_blank" alt="georgianastasov's porfolio">My personal porfolio site.
