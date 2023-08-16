@@ -48,8 +48,12 @@
 
 .site-footer .socials a.a-img:hover {
     color: white;
-    background-color: white;
+    background-color: black;
     cursor: pointer;
+}
+
+.site-footer .socials a.a-img:hover img{
+    background-color: white;
 }
 
 .site-footer .copy {
