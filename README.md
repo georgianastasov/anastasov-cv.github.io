@@ -16,6 +16,7 @@ This repository hosts my personal CV website, where you can find information abo
 - Clean and modern design.
 - Responsive layout, suitable for various devices and screen sizes.
 - Easy to update and customize.
+- Provides clear information and important events.
 - Sections for personal information, education, experience, skills, projects, and contact details.
 
 ### Preview
