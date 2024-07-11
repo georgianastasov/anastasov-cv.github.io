@@ -1,4 +1,4 @@
-## Anastasov Curriculum Vitae (CV) 💼
+## Georgi Anastasov Curriculum Vitae (CV) 💼
 
 Welcome to my Curriculum Vitae (CV) repository! 🌟
 
