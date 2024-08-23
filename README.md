@@ -10,6 +10,7 @@ This repository hosts my personal CV website, where you can find information abo
 - [Preview](#preview) 👀
 - [Feedback](#feedback) 📝
 - [Get in Touch](#getintouch) 📬
+- [Where to find me](#wheretofindme) 💬
 
 ### Features ✨
 
