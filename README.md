@@ -29,8 +29,7 @@ You can preview my CV website [here](https://georgianastasov.github.io/anastasov
 ### Feedback 📝
 
 I welcome any feedback or suggestions you may have regarding my CV website. 
-If you notice any issues, have ideas for improvements, or just want to say hello, 
-feel free to reach out to me via email or through the contact form on my website. 📧
+If you notice any issues, have ideas for improvements, or just want to say hello, feel free to reach out to me via email or through the contact form on my website. 📧
 
 ### Get in Touch 📬
 
