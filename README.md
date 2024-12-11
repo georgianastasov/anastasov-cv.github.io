@@ -34,8 +34,8 @@ feel free to reach out to me via email or through the contact form on my website
 
 ### Get in Touch 📬
 
-If you'd like to connect or learn more about my work, you can find my contact information and social media profiles on my CV website. Don't hesitate to reach out
-I'd love to hear from you! 📱✉️
+If you'd like to connect or learn more about my work, you can find my contact information and social media profiles on my CV website. 
+Don't hesitate to reach out I'd love to hear from you! 📱✉️
 
 ### Where to find me 💬
 <p><a href="https://www.linkedin.com/in/georgi-anastasov-97a733240/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
